@@ -2,4 +2,6 @@
     <string name="app_name">DrawerLayoutWithTabbed</string>
     <string name="action_settings">Settings</string>
     <string name="section_format">Hello World from section: %1$d</string>
+    <string name="navigation_drawer_open">Abrir nav</string>
+    <string name="navigation_drawer_close">Cerrar nav</string>
 </resources>
